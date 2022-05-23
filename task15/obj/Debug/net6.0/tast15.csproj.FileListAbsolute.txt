@@ -1,0 +1,15 @@
+D:\учеба\Example_\tast15\obj\Debug\net6.0\tast15.csproj.AssemblyReference.cache
+D:\учеба\Example_\tast15\obj\Debug\net6.0\tast15.GeneratedMSBuildEditorConfig.editorconfig
+D:\учеба\Example_\tast15\obj\Debug\net6.0\tast15.AssemblyInfoInputs.cache
+D:\учеба\Example_\tast15\obj\Debug\net6.0\tast15.AssemblyInfo.cs
+D:\учеба\Example_\tast15\obj\Debug\net6.0\tast15.csproj.CoreCompileInputs.cache
+D:\учеба\Example_\tast15\bin\Debug\net6.0\tast15.exe
+D:\учеба\Example_\tast15\bin\Debug\net6.0\tast15.deps.json
+D:\учеба\Example_\tast15\bin\Debug\net6.0\tast15.runtimeconfig.json
+D:\учеба\Example_\tast15\bin\Debug\net6.0\tast15.dll
+D:\учеба\Example_\tast15\bin\Debug\net6.0\tast15.pdb
+D:\учеба\Example_\tast15\obj\Debug\net6.0\tast15.dll
+D:\учеба\Example_\tast15\obj\Debug\net6.0\refint\tast15.dll
+D:\учеба\Example_\tast15\obj\Debug\net6.0\tast15.pdb
+D:\учеба\Example_\tast15\obj\Debug\net6.0\tast15.genruntimeconfig.cache
+D:\учеба\Example_\tast15\obj\Debug\net6.0\ref\tast15.dll
